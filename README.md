@@ -150,5 +150,3 @@ This project demonstrates fundamental concepts in computer architecture:
 
 - [LC-3 Architecture Documentation](https://www.jmeiners.com/lc3-vm/)
 - [LC-3 Instruction Set Reference](https://www.cs.utexas.edu/users/fussell/courses/cs310h/lectures/lc3.pdf)
-
-**Note:** This calculator is designed for educational purposes to understand low-level computing. For practical calculations, use higher-level programming languages or calculator applications.
